@@ -1,3 +1,21 @@
+
+
+#
+
+### Note this fork attempts to package the upstream project as an App to be run on HAOS, and is intended for development/testing. please report issues.
+
+Currently it has only been tested on a rasberri pi, so I'd especially appreciate feedback from anyone running on amd64 as well.
+
+### To install the app:
+
+[
+
+![Add to Home Assistant](https://my.home-assistant.io/badges/supervisor_add_addon_repository.svg)
+
+](https://my.home-assistant.io/redirect/supervisor_add_addon_repository/?repository_url=https%3A%2F%2Fgithub.com%2Fpatienttruth%2Fsignal-api-receiver)
+
+The following is the original readme from upstream.
+
 # Signal API Receiver
 
 ## Introduction
